@@ -26,6 +26,6 @@ class DetailsProduit extends StatelessWidget {
           ],
         ),
       ),
-    );
+    ); 
   }
 }
